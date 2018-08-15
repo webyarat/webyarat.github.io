@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-08-15_2343",
+    "name": "webyarat",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -36,7 +36,14 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 13,
     "versionPublish": "4.7.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/128x128.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "html_before": "",
+    "headbody": "",
+    "botbody": "<!-- Default Statcounter code for webyarat\r\nhttps://webyarat.github.io -->\r\n<script type=\"text/javascript\">\r\nvar sc_project=11794423; \r\nvar sc_invisible=1; \r\nvar sc_security=\"dbcba012\"; \r\n</script>\r\n<script type=\"text/javascript\"\r\nsrc=\"https://www.statcounter.com/counter/counter.js\"\r\nasync></script>\r\n<noscript><div class=\"statcounter\"><a title=\"Web Analytics\"\r\nhref=\"http://statcounter.com/\" target=\"_blank\"><img\r\nclass=\"statcounter\"\r\nsrc=\"//c.statcounter.com/11794423/0/dbcba012/1/\" alt=\"Web\r\nAnalytics\"></a></div></noscript>\r\n<!-- End of Statcounter Code -->",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
