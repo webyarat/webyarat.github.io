@@ -43,14 +43,18 @@
     "html_before": "",
     "headbody": "",
     "botbody": "<!-- Default Statcounter code for webyarat\r\nhttps://webyarat.github.io -->\r\n<script type=\"text/javascript\">\r\nvar sc_project=11794423; \r\nvar sc_invisible=1; \r\nvar sc_security=\"dbcba012\"; \r\n</script>\r\n<script type=\"text/javascript\"\r\nsrc=\"https://www.statcounter.com/counter/counter.js\"\r\nasync></script>\r\n<noscript><div class=\"statcounter\"><a title=\"Web Analytics\"\r\nhref=\"http://statcounter.com/\" target=\"_blank\"><img\r\nclass=\"statcounter\"\r\nsrc=\"//c.statcounter.com/11794423/0/dbcba012/1/\" alt=\"Web\r\nAnalytics\"></a></div></noscript>\r\n<!-- End of Statcounter Code -->",
-    "siteUrl": "undefined"
+    "siteUrl": "https://webyarat.github.io",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "web sehife acmaq\nsayt acmaq\nwebsayt acmaq\nweb sehife yaratmaq\nsayt yaratmaq\nwebsayt yaratmaq\n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
